@@ -6,7 +6,9 @@ import { InfiniteMovingCards } from './ui/InfiniteCards';
 
 const Clients = () => {
     return (
-        testimonials.length > 0 && (
+    <>
+    <div></div>
+          testimonials.length > 0 && (
             <section id='testimonials' className='py-20'>
                 <h1 className='heading'>
                     Kind words from
@@ -51,6 +53,8 @@ const Clients = () => {
                 </div>
             </section>
         )
+
+    </>  
     );
 };
 
