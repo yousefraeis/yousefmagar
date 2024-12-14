@@ -113,7 +113,7 @@ export const projects = [
     },
 ];
 
-//export const testimonials = [
+export const testimonials = [
    // {
    //   quote:
    //     "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
@@ -144,9 +144,9 @@ export const projects = [
     //   name: "Michael Johnson",
     //   title: "Director of AlphaStream Technologies",
     // },
-//];
+];
 
-//export const companies = [
+export const companies = [
   //{
    // id: 1,
    // name: "cloudinary",
@@ -177,9 +177,9 @@ export const projects = [
 //     img: "/dock.svg",
 //     nameImg: "/dockerName.svg",
 //   },
-//];
+];
 
-//export const workExperience = [
+export const workExperience = [
     //{
      // id: 1,
      // title: "Frontend Engineer Intern",
@@ -208,7 +208,7 @@ export const projects = [
     //   className: "md:col-span-2",
     //   thumbnail: "/exp4.svg",
     // },
-//];
+];
 
 export const socialMedia = [
     {
